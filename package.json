@@ -12,6 +12,6 @@
   "repository": "https://github.com/atom/my-theme-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0 <3.0.0"
   }
 }
