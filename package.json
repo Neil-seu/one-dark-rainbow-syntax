@@ -1,0 +1,17 @@
+{
+  "name": "one-dark-rainbow-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A syntax based on in rainbows syntax theme with on top of original one dark UI theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "rainbow",
+    "one-dark"
+  ],
+  "repository": "https://github.com/atom/my-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
