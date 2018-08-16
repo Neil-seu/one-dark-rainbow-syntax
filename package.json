@@ -1,7 +1,7 @@
 {
   "name": "one-dark-rainbow-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A syntax based on in rainbows syntax theme with on top of original one dark UI theme",
   "keywords": [
     "syntax",
